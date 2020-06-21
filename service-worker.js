@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lucas-leme-site/precache-manifest.042330a99e181ab659f31f2c36ee42d4.js"
+  "/lucas-leme-site/precache-manifest.26971d4377c307d727e474fb9e9527d0.js"
 );
 
 self.addEventListener('message', (event) => {
