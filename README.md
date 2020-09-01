@@ -43,4 +43,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-[![lucas-leme github stats](https://github-readme-stats.vercel.app/api?username=luisaheise)](https://github.com/anuraghazra/github-readme-stats)
+[![lucas-leme github stats](https://github-readme-stats.vercel.app/api?username=lucas-leme)](https://github.com/anuraghazra/github-readme-stats)
